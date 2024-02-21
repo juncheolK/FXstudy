@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7099637267809643415
+--- !u!114 &-3406194421167073745
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: fx_paticle
-  m_Shader: {fileID: -6465566751694194690, guid: f09f446ba6752b543bc41b4bc9df06a5,
+  m_Name: fx particle
+  m_Shader: {fileID: -6465566751694194690, guid: 578fa429a6089e54082ad723d74aef5c,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
