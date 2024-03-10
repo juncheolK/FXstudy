@@ -14855,8 +14855,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 1, g: 0.49714848, b: 0.2216981, a: 1}
-      maxColor: {r: 1, g: 0.74671364, b: 0.19339621, a: 1}
+      minColor: {r: 1, g: 0.23076133, b: 0.2235294, a: 1}
+      maxColor: {r: 0.9339623, g: 0.3617181, b: 0, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -19100,13 +19100,13 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel0_3: Soft Particle Factor
-    mode1: 0
+    mode1: 2
     vectorComponentCount1: 4
     color1:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 1, b: 1, a: 1}
+      maxColor: {r: 0.9150943, g: 0.8571409, b: 0.082013145, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
